@@ -1,7 +1,6 @@
 # 3I-ATLAS Bayesian Inference Framework
 
-[![GitHub release](https://img.shields.io/github/v/release/Solaris727/3I-ATLAS-origin-inference
-)](https://github.com/Solaris727/3I-ATLAS-origin-inference/releases/tag/V1.0)
+[![GitHub release](https://img.shields.io/github/v/release/Solaris727/3I-ATLAS-origin-inference)](https://github.com/Solaris727/3I-ATLAS-origin-inference/releases/latest)
 [![Zenodo](https://zenodo.org/badge/DOIEnter your DOI.svg)](https://doi.org/your-doi)
 [![License](https://img.shields.io/badge/License-CC_BY_4.0-blue.svg)](https://creativecommons.org/licenses/by/4.0/)
 
